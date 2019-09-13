@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
   private static final int MAX_RETRIES = 10;
   private static final int MAX_RESULTS = 120;
   private static final int LANDSCAPE_COLUMN_COUNT = 12;
-  private static final int PORTRAIT_COLUMN_COUNT = 6;
+  private static final int PORTRAIT_COLUMN_COUNT = 4;
   
   private TwitterLoginButton loginButton = null;
   private Button logOutButton = null;
