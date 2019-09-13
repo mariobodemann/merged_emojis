@@ -5,6 +5,5 @@ It lets you search for emojis from the bot and returns you a list of them. You c
 
 Enjoy.
 
-<img src="assets/1.png" height="100" alt="Screenshot A"/>
-<img src="assets/2.png" height="100" alt="Screenshot 1"/>
+<img src="assets/1.png" height="150" alt="Screenshot A"/><img src="assets/2.png" height="150" alt="Screenshot 1"/><img src="assets/3.png" height="150" alt="Screenshot I"/>
 
